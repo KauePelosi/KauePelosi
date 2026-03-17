@@ -94,7 +94,3 @@ A lightweight habit tracking web app. No backend, no accounts — just localStor
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:0a1f3d,100:0d0d0d&height=100&section=footer" />
