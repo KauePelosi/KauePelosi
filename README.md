@@ -18,7 +18,7 @@ Currently building a technical portfolio and continuously growing as a developer
 
 **Algorithms & Data Structures** — Active LeetCode practice in C++. Focused on building genuine problem-solving intuition, not just memorizing patterns.
 
-**Backend & Web** — Learning TypeScript and Angular to round out the stack. I prefer understanding what a framework does before letting it do things for me.
+**Backend & Web** — Building solid backend foundations, focused on understanding systems from the ground up before reaching for higher-level abstractions.
 
 ---
 
@@ -27,11 +27,6 @@ Currently building a technical portfolio and continuously growing as a developer
 <div align="center">
 
 ![C++](https://img.shields.io/badge/-C++-9C27B0?style=flat-square&logo=cplusplus&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=FFE873)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-FF5722?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/-Linux-6C6C6C?style=flat-square&logo=linux&logoColor=white)&nbsp;
 ![Neovim](https://img.shields.io/badge/-Neovim-6DB33F?style=flat-square&logo=neovim&logoColor=white)&nbsp;
@@ -55,10 +50,7 @@ A minimal Unix shell. Parses and executes commands, supports basic piping. The k
 **[leetcode-cpp](https://github.com/KauePelosi/leetcode-cpp)** &nbsp;`C++`  
 Structured solutions to algorithmic problems, organized by topic and difficulty. Comments explain the reasoning, not just the code.
 
-**[habit-tracker](https://github.com/KauePelosi/habit-tracker)** &nbsp;`TypeScript · HTML · CSS`  
-A lightweight habit tracking web app. No backend, no accounts — just localStorage and focused UX. Built as a practical entry point into TypeScript.
-
-**In progress:** &nbsp; HTTP server in C++ &nbsp;·&nbsp; Angular projects &nbsp;·&nbsp; Python tooling
+**In progress:** &nbsp; HTTP server in C++
 
 
 ---
@@ -89,8 +81,5 @@ A lightweight habit tracking web app. No backend, no accounts — just localStor
 <div align="center">
 
 <span>Always available to learn and grow.<br/><b>Contact</b>:</span>
-
-
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
