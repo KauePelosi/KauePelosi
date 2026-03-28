@@ -38,19 +38,7 @@ Currently building a technical portfolio and growing as a developer.
 
 **In progress:** HTTP server in C++
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=KauePelosi&show_icons=true&theme=dark&bg_color=0a1628&title_color=7ab8ff&text_color=8ba8c4&icon_color=57A143&border_color=1e3a5f&count_private=true&hide_rank=false&locale=en)](https://github.com/KauePelosi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauePelosi&layout=compact&theme=dark&bg_color=0a1628&title_color=7ab8ff&text_color=8ba8c4&border_color=1e3a5f&langs_count=5&locale=en)](https://github.com/KauePelosi)
-
-</div>
-
----
+----
 
 <div align="center">
 
